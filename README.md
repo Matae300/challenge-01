@@ -12,8 +12,8 @@ N/A
 The use of this module-01-challenge respository is to allow the user to become familar with basic html and CSS elements. Understanding basic html structure, increase the users level of html and CSS understanding, and becoming familiar with reading, improving and altering code to make it more concise and legible.
 
 ## Credits
-Xandromus 
-Georgeyoo
+Xandromus, 
+Georgeyoo,
 Matheus Almeida
 
 ## License
